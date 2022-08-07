@@ -1,7 +1,7 @@
 module.exports = {
-TOKEN: '.Token', //write your discord bot token
-status: 'Music v14', // Status 
-commandsDir: './commands', //Please don't touch
+TOKEN: '.Token', //MTAwNTk1MDE5NjkyMTkzMzk4NQ.GpfV4v.oablvJLN_z7cgTV326WbEnC1BB6Hy0U4b--tdY
+status: 'Music v14', // status
+commandsDir: './commands', //#p
         
 opt: {
 DJ: { 
